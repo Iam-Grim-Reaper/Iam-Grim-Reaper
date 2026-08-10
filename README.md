@@ -25,58 +25,51 @@ I specialize in developing AI solutions using modern ML/GenAI frameworks, with e
 
 🛠️ Tech Stack
 
-💻 Programming Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,php" />
+<img src="https://img.shields.io/badge/PYTHON-18181B?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/JAVA-18181B?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/SQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/LANGCHAIN-18181B?style=for-the-badge&logo=langchain&logoColor=1C3C3C" />
+<img src="https://img.shields.io/badge/FAISS-18181B?style=for-the-badge&logoColor=0467DF" />
 </p>
 
-
-
-🤖 Generative AI
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/CHROMA-18181B?style=for-the-badge&logoColor=6B4FBB" />
+<img src="https://img.shields.io/badge/TRANSFORMERS-18181B?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-18181B?style=for-the-badge&logoColor=FF6B6B" />
+<img src="https://img.shields.io/badge/LANGGRAPH-18181B?style=for-the-badge&logoColor=FF4B91" />
+<img src="https://img.shields.io/badge/REACT-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NEXT.JS-18181B?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
 </p>
 
-
-
-🧠 AI / Machine Learning
-
-
-
-🔬 Frameworks & Libraries
-
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,opencv,pandas,numpy" />
+<img src="https://img.shields.io/badge/FASTAPI-18181B?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge&logoColor=FF6B6B" />
+<img src="https://img.shields.io/badge/STYLED%20COMPONENTS-18181B?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" />
+<img src="https://img.shields.io/badge/FRAMER%20MOTION-18181B?style=for-the-badge&logo=framer&logoColor=0055FF" />
+<img src="https://img.shields.io/badge/MYSQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/FIREBASE-18181B?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/AWS-18181B?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </p>
 
-
-
-🌐 Frontend & Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,html,css" />
+<img src="https://img.shields.io/badge/GOOGLE%20CLOUD-18181B?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/DOCKER-18181B?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/VERCEL-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/RENDER-18181B?style=for-the-badge&logo=render&logoColor=46E3B7" />
+<img src="https://img.shields.io/badge/GIT-18181B?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/WIX%20STUDIO-18181B?style=for-the-badge&logo=wix&logoColor=0C0C0C" />
+<img src="https://img.shields.io/badge/FIGMA-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
-
-
-🗄️ Databases & Vector Search
-
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,neo4j" />
-</p>
-
-
-
-⚙️ AI Systems & Performance
-
-
-
-☁️ Platforms & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash" />
+<img src="https://img.shields.io/badge/N8N-18181B?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+<img src="https://img.shields.io/badge/MAKE-18181B?style=for-the-badge&logo=make&logoColor=6D00CC" />
 </p>
 
 
