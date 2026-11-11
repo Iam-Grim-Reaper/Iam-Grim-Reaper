@@ -1,4 +1,4 @@
-# Hi, I'm Shriyans Denis Swamy 👋
+# Hi, I'm Shriyans Denis 
 
 **AI Engineer · Generative AI · Computer Vision · Backend Engineering**
 
